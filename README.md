@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**elfalehed/elfalehed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Business Owner by day ☼ and a Mathematician by night ☾
 
-Here are some ideas to get you started:
+Founder & Tech Lead at [PeakPulseSolutions](https://linkedin.com/company/peakpulsesol/);<br>
+Owner Of [THESE COMPANIES](https://mohamedelfaleh.com/companies-projects/);<br>
+Community Founder & Leader at [TPL.tN](https://linktr.ee/tpl.tn);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.ts`, `.js`, `.py`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **business**, **startups**, **branding**, **sales**, **product design**
+- 📫 Reach me: [linkedin.com/in/elfalehed](https://linkedin.com/in/elfalehed)
+- ⚡️ Fun fact: I do PowerLifting & KickBoxing! 

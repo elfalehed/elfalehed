@@ -7,7 +7,7 @@
 ✔️ Community Founder & Leader at [TPL.TN](https://linktr.ee/tpl.tn);<br>
 
 - ⚙️ I use daily: `.ts`, `.js`, `.py`
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active within the **TypeScript/JavaScript Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **business**, **startups**, **branding**, **sales**, **product design**
 - 📫 Reach me: [linkedin.com/in/elfalehed](https://linkedin.com/in/elfalehed)

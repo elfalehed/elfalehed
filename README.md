@@ -2,9 +2,9 @@
 
 #### A Business Owner by day ☼ and a Mathematician by night ☾
 
-✔️ Founder & Tech Lead at [PeakPulseSolutions](https://linkedin.com/company/peakpulsesol/);<br>
-✔️ Owner Of [THESE COMPANIES](https://mohamedelfaleh.com/companies-projects/);<br>
-✔️ Community Founder & Leader at [TPL.TN](https://linktr.ee/tpl.tn);<br>
+✔️ Chairman & CEO at [PeakPulseSolutions](https://linkedin.com/company/peakpulsesol/);<br>
+✔️ Owner Of [These Companies](https://peakpulsesol.com/?page_id=36);<br>
+✔️ Community Founder & Leader at [tpl.tn](https://linktr.ee/tpl.tn);<br>
 
 - ⚙️ I use daily: `.ts`, `.js`, `.py`
 - 🌍 I'm mostly active within the **TypeScript/JavaScript Community**

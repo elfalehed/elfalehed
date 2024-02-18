@@ -4,7 +4,7 @@
 
 ✔️ Chairman & CEO at [PeakPulseSolutions](https://linkedin.com/company/peakpulsesol/);<br>
 ✔️ Owner Of [These Companies](https://peakpulsesol.com/?page_id=36);<br>
-✔️ Community Founder & Leader at [tpl.tn](https://linktr.ee/tpl.tn);<br>
+✔️ Community Founder & Leader at [tpl.tn](https://linktr.ee/tpl.tn) & [TPL Clubs](https://linktr.ee/tpl.clubs);<br>
 
 - ⚙️ I use daily: `.ts`, `.js`, `.py`
 - 🌍 I'm mostly active within the **TypeScript/JavaScript Community**

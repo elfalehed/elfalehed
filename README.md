@@ -6,7 +6,7 @@
 ✔️ Founder Of These [Companies & Projects](https://peakpulsesol.com/?page_id=36);<br>
 ✔️ Community Founder at [TPL.tn](https://linktr.ee/tpl.tn) & [TPL Clubs](https://linktr.ee/tpl.clubs);<br>
 
-- ⚙️ I use daily: `.ts`, `.js`, `.py`
+- ⚙️ I use daily: `.ts`, `.js`, `.py`, `.ipynb`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **PureMath**, **Finance**, **Investing**, and **Trading!** 
 - 💬 Ping me about **business**, **startups**, **finance**, **investing**, **trading**

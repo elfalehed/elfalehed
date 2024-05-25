@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Business Owner by day ☼ and a Mathematician & Philosopher by night ☾
+#### A Business Owner by day ☼ and a Pmathematician & Philosopher wannabe by night ☾
 
 ✔️ Chairman & CEO at [PPS](https://linkedin.com/company/peakpulsesol/);<br>
 ✔️ Founder Of These [Companies & Projects](https://peakpulsesol.com/?page_id=36);<br>

@@ -1,2 +1,2 @@
-![Description of GIF](https://link-to-your-gif.gif)
+![Description of GIF](doing-the-math-thinking.gif)
 
